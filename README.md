@@ -5,4 +5,6 @@ SQL Scripts: Collection of SQL queries, views, and stored procedures used for da
 Excel Workbooks: Cleaned data files, initial analysis results, and pivot table reports.
 Power BI Dashboards: Interactive dashboards with key sales metrics, visualizations, and detailed drill-down reports.
 
-![Uploading image.png…]()
+
+![Alt text](https://github.com/poortii/Namma_Yatri-Trips-Analysis/blob/main/Screenshot%202024-07-23%20160842.png)
+
