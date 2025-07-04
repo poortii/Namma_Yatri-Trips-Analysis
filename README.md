@@ -1,10 +1,47 @@
-The Namma Yatri Sales Analysis project aims to comprehensively analyze sales data using SQL, Excel, and Power BI. This analysis provides insights into sales performance, trends, and key metrics to help understand customer behavior, optimize operations, and drive strategic decisions.
-Deliverables:
+# 🚖 Namma Yatri Sales Analysis
 
-SQL Scripts: Collection of SQL queries, views, and stored procedures used for data extraction and transformation.
-Excel Workbooks: Cleaned data files, initial analysis results, and pivot table reports.
-Power BI Dashboards: Interactive dashboards with key sales metrics, visualizations, and detailed drill-down reports.
+## 📌 Project Overview
+
+The **Namma Yatri Sales Analysis** project aims to comprehensively analyze sales data using **SQL**, **Excel**, and **Power BI**. This analysis provides meaningful insights into sales performance, customer trends, and operational metrics to support data-driven decision-making.
+
+---
+
+## 🎯 Objectives
+
+- Understand and track key sales metrics
+- Identify sales trends and performance patterns
+- Analyze customer behavior and preferences
+- Support strategic planning through data visualization
+
+---
+
+## 📦 Deliverables
+
+### 1. 🗃️ SQL Scripts
+- Data extraction queries
+- Transformation logic
+- Views and stored procedures
+
+### 2. 📊 Excel Workbooks
+- Cleaned and structured raw data
+- Summary reports and initial insights
+- Pivot tables for exploratory analysis
+
+### 3. 📈 Power BI Dashboards
+- Interactive dashboards with:
+  - Sales trends over time
+  - Top-performing products or services
+  - Customer segmentation
+  - Regional performance breakdown
+- Drill-down capabilities for detailed analysis
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL (MySQL/PostgreSQL)** – For data extraction and preprocessing
+- **Microsoft Excel** – For data cleaning, pivoting, and static reporting
+- **Power BI** – For dynamic visual analytics and storytelling
 
 
-![Alt text](https://github.com/poortii/Namma_Yatri-Trips-Analysis/blob/main/Screenshot%202024-07-23%20160842.png)
 
