@@ -2,46 +2,59 @@
 
 ## 📌 Project Overview
 
-The **Namma Yatri Sales Analysis** project aims to comprehensively analyze sales data using **SQL**, **Excel**, and **Power BI**. This analysis provides meaningful insights into sales performance, customer trends, and operational metrics to support data-driven decision-making.
+The **Namma Yatri Sales Analysis** project presents a comprehensive sales data analysis using **SQL**, **Excel**, and **Power BI**. It uncovers insights on trip behavior, driver earnings, and customer engagement to inform business decisions and optimize platform performance.
 
 ---
 
 ## 🎯 Objectives
 
-- Understand and track key sales metrics
-- Identify sales trends and performance patterns
-- Analyze customer behavior and preferences
-- Support strategic planning through data visualization
+- Monitor and analyze trip metrics like completed trips, estimates, and searches
+- Evaluate driver earnings and conversion rates
+- Visualize distance, fare, and duration relationships
+- Identify patterns by region and customer behavior trends
 
 ---
 
 ## 📦 Deliverables
 
 ### 1. 🗃️ SQL Scripts
-- Data extraction queries
-- Transformation logic
-- Views and stored procedures
+- Queries and views used to extract and structure the raw data
+- Transformations for distance, fare, time, and region-based segmentation
 
 ### 2. 📊 Excel Workbooks
-- Cleaned and structured raw data
-- Summary reports and initial insights
-- Pivot tables for exploratory analysis
+- Raw and cleaned datasets
+- Pivot tables for intermediate analysis
+- Summary statistics and derived columns
 
-### 3. 📈 Power BI Dashboards
-- Interactive dashboards with:
-  - Sales trends over time
-  - Top-performing products or services
-  - Customer segmentation
-  - Regional performance breakdown
-- Drill-down capabilities for detailed analysis
+### 3. 📈 Power BI Dashboard
+Interactive dashboard visuals include:
+
+- ✅ **Top KPIs**:
+  - Completed Trips: `983`
+  - Searches: `2161`
+  - Estimates: `1758`
+  - Quotes: `1277`
+  - Driver Earnings: `751K`
+  - Conversion Rate: `45.49%`
+
+- 📉 **Visuals**:
+  - Distance vs Duration
+  - Fare vs Duration
+  - Trips vs Duration
+  - Assembly-wise trip distribution
+  - Geo map of trips by assembly
+
+> 🔖 Note: The Power BI `.pbix` file is shared as a **PDF export** due to GitHub file upload limitations.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Used
 
-- **SQL (MySQL/PostgreSQL)** – For data extraction and preprocessing
-- **Microsoft Excel** – For data cleaning, pivoting, and static reporting
-- **Power BI** – For dynamic visual analytics and storytelling
+- **SQL** – Data extraction, transformation
+- **Excel** – Cleaning, pivoting, and initial exploration
+- **Power BI** – Interactive and visual storytelling
+
+
 
 
 
